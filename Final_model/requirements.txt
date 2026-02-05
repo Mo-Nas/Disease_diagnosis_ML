@@ -3,6 +3,3 @@ numpy
 pandas
 ollama
 scikit-learn
-ast
-joblib
-json
